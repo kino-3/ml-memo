@@ -1,6 +1,5 @@
 theme: jekyll-theme-dinky
 lang: ja-JP
-title: title # TODO
-description: description # TODO
+title: 機械学習メモ
 plugins:
   - jekyll-sitemap

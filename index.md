@@ -1,5 +1,4 @@
-# サンプルページ
+# ページ一覧
 
-## ページ一覧
-
-- [MathJax の動作確認](./mathjax-test)
+- data
+  - [PRML: three_phase_oil_flow.npz](./data/three_phase_oil_flow.npz)
