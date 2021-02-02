@@ -34,7 +34,7 @@ $$
 Loss=-[y\ln{D(x;\theta_d)} + (1-y)\ln{\left\{1-D(x;\theta_d)\right\}}]
 $$
 
-![graph](./img/graph.svg)
+![graph](./image/graph.svg)
 
 よって, 目的関数は $ x $ と $ y $ の同時分布を $ p(x,y) $ とすると次のように表せる。ただし, $ (*) $ では以下を適用した。
 

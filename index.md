@@ -6,4 +6,4 @@
   - [Kullback-Leibler divergence の非負性](./math/KL_divergence)
 - paper
   - [VGG](./paper/vgg)
-  - [GAN](./paper/gan)
+  - [敵対的生成ネットワーク GAN の原論文](./paper/gan)
